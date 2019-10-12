@@ -1,14 +1,12 @@
 # Exploratory Data Analysis using ggplot2 #
 
-
+Using 10.000 Credit Card transaction of tourists in Madrid over a 2 day timeframe, the goal is to visualise the data and make recommendations to how best make use of the knowledge gained.
 
 
 ----
 ## Assignment Details ##
 
 Define specific use cases in which credit card transaction data can add real value. The goal is to discover different insights from the data through 5 - 8 data visualization (with GGPlot2) and then transform them into potential business outcomes. Insights are wanted, Design is secondary.
-
-The dataset consists of 10,000 credit card transactions performed by tourists in the city of Madrid during a month.
 
 ## Final Report ##
 
