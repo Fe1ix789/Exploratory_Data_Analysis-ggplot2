@@ -21,10 +21,10 @@ Lastly, some potential data monetization strategies are discussed in the final p
 
 #### KEY FINDINGS ####
 
-•	Yankee Invasion: US tourists are the ones spending more money in Madrid. In the 48 hours covered by the dataset, they left more than €180.000 at the Spanish capital. ¡Muchas gracias!
-•	Thailand, South Africa and Indonesia – highest average tickets: visitors from those countries seem to be keen to making very expensive purchases. On average, each of their transactions is 4 times greater than the overall average.
-•	Cover Page – Fashion in the spotlight with highest share of tourists’ wallet: Tourists in Madrid seem to love its fashion retail stores: in two days, they spent almost half a million euros in clothing and shoes.
-•	Happy Hours – Bars & Restaurants cash in after sunset: as the day is over in the Spanish capital, tourists make sure to enjoy its delicious food and cañas: 200 thousand euros were spent in two days, mostly after 6pm and well into the night.
+* Yankee Invasion: US tourists are the ones spending more money in Madrid. In the 48 hours covered by the dataset, they left more than €180.000 at the Spanish capital. ¡Muchas gracias!
+* Thailand, South Africa and Indonesia – highest average tickets: visitors from those countries seem to be keen to making very expensive purchases. On average, each of their transactions is 4 times greater than the overall average.
+* Cover Page – Fashion in the spotlight with highest share of tourists’ wallet: Tourists in Madrid seem to love its fashion retail stores: in two days, they spent almost half a million euros in clothing and shoes.
+* Happy Hours – Bars & Restaurants cash in after sunset: as the day is over in the Spanish capital, tourists make sure to enjoy its delicious food and cañas: 200 thousand euros were spent in two days, mostly after 6pm and well into the night.
 
 #### SPENDING BY COUNTRY OF ORIGIN ####
 
